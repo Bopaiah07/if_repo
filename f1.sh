@@ -6,3 +6,4 @@ then
 echo "The number is 5"
 else
 echo "Not 5"
+fi
